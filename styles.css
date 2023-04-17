@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 #f1{
-	background-color:rgb(255, 255, 0);
-	align-self:center;
+	background-color:yellow;
+	text-alignment:center;
 }
 #f2{
-	background-color:rgb(255, 255, 0);
+	background-color:yellow;
 	align-self:center;
 }
